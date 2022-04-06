@@ -1,0 +1,5 @@
+.question-card {
+  display: grid;
+  grid-template-columns: 3fr;
+  grid-template-rows: 3fr;
+}
