@@ -1,3 +1,9 @@
 @import url(/base.css);
-@import url(/design-system/navbar/styles.css);
+@import url(/design-system/navbar-top/styles.css);
 @import url(/design-system/question-card/styles.css);
+@import url(/design-system/content/styles.css);
+@import url(/design-system/navbar-button/styles.css);
+
+:root {
+  --navbar__color--blue: rgb(82, 146, 202);
+}
