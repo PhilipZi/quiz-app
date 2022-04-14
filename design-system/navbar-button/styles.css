@@ -1,11 +1,7 @@
 .navbar__button {
   display: flex;
-  justify-content: space-around;
-
-  display: flex;
   flex-direction: row;
   justify-content: center;
-
   padding: 1rem;
   background-color: var(--navbar__color--blue);
 }

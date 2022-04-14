@@ -4,6 +4,8 @@
   "description": "a small quiz app to learn web technologies",
   "main": "index.html",
   "scripts": {
+    "stylelint": "stylelint \"**/*.css\"",
+    "htmlhint": "htmlhint \"**/*.html\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,6 +19,9 @@
   },
   "homepage": "https://github.com/PhilipZi/quiz-app#readme",
   "devDependencies": {
-    "htmlhint": "^1.1.4"
+    "htmlhint": "^1.1.4",
+    "stylelint": "^14.6.1",
+    "stylelint-config-prettier": "^9.0.3",
+    "stylelint-config-standard": "^25.0.0"
   }
 }
