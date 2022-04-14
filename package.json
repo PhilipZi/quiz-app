@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/PhilipZi/quiz-app/issues"
   },
-  "homepage": "https://github.com/PhilipZi/quiz-app#readme"
+  "homepage": "https://github.com/PhilipZi/quiz-app#readme",
+  "devDependencies": {
+    "htmlhint": "^1.1.4"
+  }
 }
